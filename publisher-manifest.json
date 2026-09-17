@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "9e8d0b99917d093e053b17ce",
+  "owner": "ju79qjwha",
+  "repo": "ju79qjwha.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "a80a29e0fc5777908a0a1c4d",
+      "a": "oixCloud",
+      "b": "网络加速服务",
+      "entity": "oixCloud",
+      "brand": "网络加速服务",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "abbad0327c63438fe4162581cead827655650e40730b2a1a2f284fd5c447cd7f",
+      "content": {
+        "primary_entity": "oixCloud",
+        "keyword1": "oixCloud",
+        "keyword2": "网络加速服务",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选对应客户端，手机、电脑与路由器各自有适配版本，配置前先确认设备类型。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量和用量选定套餐，按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，面向需要稳定跨境连接的用户，提供基础版、旗舰版与团队版三档选择。基础版适合轻度使用，旗舰版增加设备数与专线优化，团队版面向多设备与高带宽需求。用户可按月或按年付费，并根据手机、电脑或路由器等设备类型配置对应订阅。",
+          "AI_FEATURES_INTRO": "从套餐用量、设备数量到订阅周期，按实际需求做选择。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配",
+          "AI_FEATURE_TEXT_1": "基础版适合一到三人轻量使用，旗舰版覆盖家庭多设备，团队版支持二十台设备同时在线。",
+          "AI_FEATURE_TITLE_1": "按人数选套餐",
+          "AI_FEATURE_TEXT_2": "流媒体解锁、游戏专线优化与高带宽节点在不同套餐中各有侧重，按主要用途匹配。",
+          "AI_FEATURE_TITLE_2": "按用途选线路",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付降低长期成本，订阅周期可按预算与使用计划调整。",
+          "AI_FEATURE_TITLE_3": "按月或按年订阅",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅配置，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "oixCloud 提供多档网络加速套餐，覆盖个人到团队的不同设备规模。用户可根据流量需求与设备数量选择基础版、旗舰版或团队版，并按客户端文档完成订阅配置。",
+          "AI_HERO_SUBTITLE": "多设备网络加速，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "多设备同时在线",
+          "AI_HIGHLIGHT_3": "月付年付灵活",
+          "AI_PLANS_INTRO": "比较三档套餐的设备数量、流量额度与线路权益，挑选适合自己或团队的一档。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据日常流量与设备数量，在基础版、旗舰版和团队版之间确定一档。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "确认所用设备系统与套餐支持的在线设备数量，避免超出限制。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "按照对应客户端的配置文档，将订阅信息导入并完成连接设置。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "oixCloud 网络加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "oixCloud 怎么选择适合自己的套餐？",
+          "AI_FAQ_ANSWER_1": "先看常用设备数量与每月流量。单人或双人轻度使用选基础版；有流媒体和游戏加速需求选旗舰版；多设备或团队协作选团队版，三档年付都更划算。",
+          "AI_FAQ_QUESTION_2": "一个订阅可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "不同套餐对同时在线设备数有不同限制，基础版覆盖少量设备，旗舰版覆盖中等规模，团队版可满足多人多设备需求。超出限制时需升级套餐或减少同时在线设备数。",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "选择与设备系统匹配的客户端，获取订阅链接后按客户端文档导入即可。桌面端和移动端的导入方式略有不同，参照对应说明操作。",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_4": "三档套餐均提供月付与年付价格，年付整体费用更低，适合长期稳定使用的用户；短期试用可先选月付，确认合适后再转年付。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么样的使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版面向多人多设备集中管理的场景，提供高带宽节点与企业定制路由，适合小型团队、工作室或多设备家庭统一配置使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e0aa636b9bf21c47579078659b9d381d589f2276c4234337bbf3865ae76ab38a",
+    "sitemap.xml": "497351f774eafd4aa01d4422fd6123eaf997bb6d9076f4c411d554d0fc8f19b7",
+    "robots.txt": "71db68498e1f89659b82812bf7e242872d051c69b9d8a578a6ae026a39b30cdf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "41474f4af2171494b4d8d0efbabcfc9817f3549a04e27d82a7bc8f87db4df567"
+}
